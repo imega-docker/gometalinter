@@ -1,6 +1,8 @@
 # gometalinter
 This is docker image to run the [gometalinter](https://github.com/alecthomas/gometalinter).
 
+[![](https://images.microbadger.com/badges/image/imega/gometalinter.svg)](https://microbadger.com/images/imega/gometalinter "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/imega/gometalinter.svg)](https://microbadger.com/images/imega/gometalinter "Get your own version badge on microbadger.com")
+
 Image size: 154 MB
 
 From image: scratch

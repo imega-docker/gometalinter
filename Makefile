@@ -1,4 +1,4 @@
-TAG = 2.0.0
+TAG = 2.0.1
 
 release:
 	@docker login --username $(DOCKER_USER) --password $(DOCKER_PASS)
