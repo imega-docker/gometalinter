@@ -7,7 +7,7 @@ Image size: 154 MB
 
 From image: scratch
 
-gometalinter version: 2.0.2
+gometalinter version: 2.0.3
 
 ## Usage
 
